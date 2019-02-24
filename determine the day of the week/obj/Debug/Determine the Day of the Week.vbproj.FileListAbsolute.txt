@@ -1,0 +1,10 @@
+c:\users\georg\documents\visual studio 2015\Projects\Determine the Day of the Week\Determine the Day of the Week\bin\Debug\Determine the Day of the Week.exe.config
+c:\users\georg\documents\visual studio 2015\Projects\Determine the Day of the Week\Determine the Day of the Week\bin\Debug\Determine the Day of the Week.exe
+c:\users\georg\documents\visual studio 2015\Projects\Determine the Day of the Week\Determine the Day of the Week\bin\Debug\Determine the Day of the Week.pdb
+c:\users\georg\documents\visual studio 2015\Projects\Determine the Day of the Week\Determine the Day of the Week\bin\Debug\Determine the Day of the Week.xml
+c:\users\georg\documents\visual studio 2015\Projects\Determine the Day of the Week\Determine the Day of the Week\obj\Debug\Determine the Day of the Week.vbprojResolveAssemblyReference.cache
+c:\users\georg\documents\visual studio 2015\Projects\Determine the Day of the Week\Determine the Day of the Week\obj\Debug\Determine_the_Day_of_the_Week.Resources.resources
+c:\users\georg\documents\visual studio 2015\Projects\Determine the Day of the Week\Determine the Day of the Week\obj\Debug\Determine the Day of the Week.vbproj.GenerateResource.Cache
+c:\users\georg\documents\visual studio 2015\Projects\Determine the Day of the Week\Determine the Day of the Week\obj\Debug\Determine the Day of the Week.exe
+c:\users\georg\documents\visual studio 2015\Projects\Determine the Day of the Week\Determine the Day of the Week\obj\Debug\Determine the Day of the Week.xml
+c:\users\georg\documents\visual studio 2015\Projects\Determine the Day of the Week\Determine the Day of the Week\obj\Debug\Determine the Day of the Week.pdb
